@@ -1,6 +1,6 @@
 # Hi, I'm Ali! 👋
 
-I'm a 26-year-old Software Developer from Turkey, currently working at Countly Ltd. as an SDK Developer. Welcome to my GitHub profile!
+I'm a Software Developer from Turkey, currently working at Countly Ltd. as an SDK Developer. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
@@ -19,3 +19,4 @@ I'm a 26-year-old Software Developer from Turkey, currently working at Countly L
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/alirizakat/)
+- [Twitter](https://twitter.com/CodeChokeWizard)
