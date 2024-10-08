@@ -1,6 +1,6 @@
 # Hi, I'm Ali! 👋
 
-I'm a Software Developer from Turkey, currently working at Countly Ltd. as an SDK Developer. Welcome to my GitHub profile! I love developing video games, coding, trying out Linux distros, and old tech. I play lots of Magic: the Gathering, D&D. Also really into martial arts, I practice Brazilian Jiu-Jitsu. Feel free to connect with me for talking about these and more!
+I love Magic: The Gathering, Chess, old tech, coding, video games, and martial arts. 
 
 📫 How to Reach Me:  
 
