@@ -2,13 +2,9 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">I love coding, Magic: The Gathering, Chess, old tech, video games, and martial arts. In that order.</p>
 
 ###
-
-<br clear="both">
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -53,8 +49,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <a href="https://open.spotify.com/user/oe5153chte7j8oeuuxw5ogg1n">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=oe5153chte7j8oeuuxw5ogg1n&count=5&unique=true" alt="Spotify recently played"  />
@@ -62,8 +56,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AliRKat.AliRKat&"  />
