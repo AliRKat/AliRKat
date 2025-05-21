@@ -41,14 +41,14 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliRKat&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=AliRKat&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/oe5153chte7j8oeuuxw5ogg1n">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=oe5153chte7j8oeuuxw5ogg1n&count=5&unique=true" alt="Spotify recently played"  />
   </a>
